@@ -22,7 +22,7 @@ body {
   padding:0;
   width: 340px;
   background-color:#fafafa;
-  min-height: 50px;
+  min-height: 48px;
   font-family: Source Sans Pro;
   font-size: 15px;
   -webkit-transition: translate3d(0,0,0);
