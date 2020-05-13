@@ -20,9 +20,9 @@
 body {
   margin:0;
   padding:0;
-  width: 360px;
+  width: 340px;
   background-color:#fafafa;
-  min-height: 48px;
+  min-height: 50px;
   font-family: Source Sans Pro;
   font-size: 15px;
   -webkit-transition: translate3d(0,0,0);
